@@ -1,6 +1,6 @@
 # Covid-Charts
 
-### See covid-19 cases among  😁
+### COVID-19 interactive map  😷
 
 ## How to use?
 
